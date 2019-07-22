@@ -1,8 +1,5 @@
-❤️
+Welcome ❤️
 
-***
-We have a living [Etherpad](https://etherpad.net/p/2018-07-06-friendly-github-intro) for the workshop for Turing Interns on 6 July, 2018.
-***
 
 # Beginners guide to version control with git
 This is a beginner friendly introduction to making open, version-controlled, and collaborative projects using git and GitHub.
@@ -13,7 +10,7 @@ This is a beginner friendly introduction to making open, version-controlled, and
 
 Github is a free and open source platform that can help you build projects that are collaborative, well documented, and version-controlled. In this workshop we will introduce you to the GitHub ecosystem and help you get you comfortable navigating basic GitHub workflows. We will make sure that you leave the workshop aware of the best practices for developing projects on GitHub (e.g. writing a good “readme” or posting and labelling issues) and an understanding of how GitHub can help make your projects more readable and accessible.
 
-This workshop is developed for anyone looking for a solution to making projects – whether it be your research on arctic glaciers, the materials for an undergraduate course, your PHD thesis, or even a cookbook – more manageable. You don't have to share your work with others or collaborate with anyone, although you'll learn how this can be achieved with ease.
+This workshop is developed for anyone looking for a solution to making projects – whether it be your research on arctic glaciers, your library data project, the next training session, or even a cookbook – more manageable. You don't have to share your work with others or collaborate with anyone, although you'll learn how this can be achieved with ease.
 
 This workshop is geared towards all skill levels, but first-time and novice users are encouraged and prioritised.
 
